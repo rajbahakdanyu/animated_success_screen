@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.test">
    <application
-        android:label="test"
-        android:name="${applicationName}"
+        android:label="Animated Success Screen"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
